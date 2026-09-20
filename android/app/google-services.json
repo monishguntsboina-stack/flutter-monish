@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867445380077",
+    "project_id": "planning-with-ai-a4f22",
+    "storage_bucket": "planning-with-ai-a4f22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867445380077:android:90b8eedefa9ed20d330de4",
+        "android_client_info": {
+          "package_name": "com.example.smart_student_assessment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzhBTvz8NcZkyfYf1IkaqZN--kF5y10o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
