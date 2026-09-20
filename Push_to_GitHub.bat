@@ -11,8 +11,8 @@ git branch -M main
 git remote set-url origin https://github.com/monishguntsboina-stack/flutter-monish.git
 
 echo.
-echo Uploading project files to GitHub...
-git push -u origin main
+echo Uploading clean project files (1.67 MB)...
+git push -u origin main --force
 
 if %errorlevel% equ 0 (
     echo.
